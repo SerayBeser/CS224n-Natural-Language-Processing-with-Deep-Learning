@@ -1,0 +1,16 @@
+SERAY BESER
+
+"10 november 2017"
+
+first commit
+
+challenge:
+
+http://web.stanford.edu/class/cs224n/assignments.html
+
+Assignment Pages
+
+Assignment #1 : http://web.stanford.edu/class/cs224n/assignment1/index.html
+Assignment #2 : http://web.stanford.edu/class/cs224n/assignment2/index.html
+Assignment #3 : http://web.stanford.edu/class/cs224n/assignment3/index.html
+Assignment #4 : http://web.stanford.edu/class/cs224n/assignment4/index.html
